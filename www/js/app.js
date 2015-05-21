@@ -140,7 +140,7 @@ var app = angular.module('InfoVehicularApp', ['ionic'])
 		}
 	}),
 	
-	//
+	//Test
 	$urlRouterProvider.otherwise('/tab2/home');
 });
 
